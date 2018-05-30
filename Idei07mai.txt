@@ -1,0 +1,4 @@
+Idei:
+- folosirea a doua clase pentru transmitere si primirea de mesaje
+- modificarea structurii claselor
+- clean code
